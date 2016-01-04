@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://GemOfAmara.github.io
+title: GemOfAmara
+tagline: Grace's TV criticism
+description: I'm Grace, and I'm going to try to write some TV criticism here.
+paginate: 5
